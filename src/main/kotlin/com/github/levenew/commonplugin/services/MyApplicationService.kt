@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.levenew.commonplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.levenew.commonplugin.MyBundle
 
 class MyApplicationService {
 
